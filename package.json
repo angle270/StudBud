@@ -20,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/angle270/StudBud/issues"
   },
-  "homepage": "https://github.com/angle270/StudBud#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "homepage": "https://github.com/angle270/StudBud#readme"
 }
